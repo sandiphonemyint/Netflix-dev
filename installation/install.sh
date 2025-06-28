@@ -24,7 +24,6 @@ sudo systemctl status jenkins
 # Step 6: Get Jenkins initial password
 echo "Jenkins initial admin password:"
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-
 # Step 7: Open Jenkins in your browser
 echo "Access Jenkins at: http://<YOUR_VM_EXTERNAL_IP>:8080"
 
