@@ -1,5 +1,4 @@
-# 🎬 Netflix Clone CI/CD Pipeline with Jenkins & Docker on GCP
-
+# 🎬 Netflix Clone DevSecOps Deployment
 A professionally automated DevOps project that demonstrates a full CI/CD workflow using **Jenkins**, **Docker**, and **Google Cloud Platform**. This Netflix-style front-end application is containerized and deployed from source to production through a streamlined pipeline.
 
 ---
