@@ -47,8 +47,8 @@ pipeline {
         }
         stage ("Deploy to Container") {
             steps {
-                sh "docker stop netflix || true" ## optional #fix issue
-                sh "docker rm netflix || true"   ## optional #fix issue
+                sh "docker stop netflix || true" ## optional #fixissue
+                sh "docker rm netflix || true"   ## optional #fixissue
                 sh "docker run -itd --name netflix -p 4000:4000 netflix:latest"
             }
         }
