@@ -23,7 +23,7 @@ A professionally automated DevOps project that demonstrates a full CI/CD workflo
 | Cloud Infra      | Google Cloud Platform (GCP)          |
 | Web Server       | Apache2                              |
 | Security         | OWASP Dependency Check, Docker Scout |
-| Version Control  | Git + GitHub                         |
+| Version Control  | GitHub                               |
 
 ---
 ## 📁 Project Structure
